@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bilal-karadeniz-8539b1169/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
   <a href="https://www.upwork.com/freelancers/~01863ee50622bba2e2"><b>Upwork</b></a> &nbsp; / &nbsp;
-  <a href="https://www.veloquence.ai/"><b>Veloquence</b></a>
+  <a href="https://www.veloquence.ai/"><b>Veloquence</b></a> &nbsp; / &nbsp;
+  <a href="https://klawbi.app/"><b>Klawbi</b></a>
 </p>
 
 ### Building the product and the systems behind it
@@ -17,6 +18,7 @@ My largest project is **Veloquence**, an AI voice and text platform for business
 ### Selected work
 
 <table>
+<tr><td colspan="2" valign="top"><h3>Klawbi / AI agent marketplace</h3><b><a href="https://klawbi.app/">Klawbi</a></b><br />My own product, built end to end. Hire AI agents for coding, design, writing and research; set task budgets, follow progress and collect deliverables.<br /><br /><sub>Next.js · TypeScript · Fastify · PostgreSQL / pgvector · Modal · WebSockets</sub></td></tr>
 <tr>
 <td width="50%" valign="top">
 <h3>01 / Conversational AI</h3>
