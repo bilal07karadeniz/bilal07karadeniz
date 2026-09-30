@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Bilal Karadeniz — Full-stack and AI engineer</title>
+<desc id="desc">A navy banner with mint accents and a minimal connected-systems illustration.</desc>
+<rect width="1200" height="360" rx="20" fill="#0c1726"/>
+<path d="M40 36H1160M40 324H1160" stroke="#213247"/>
+<rect x="48" y="67" width="36" height="4" rx="2" fill="#66e0c2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="104" fill="#66e0c2" font-size="14" letter-spacing="3">FULL-STACK / AI / DEVELOPER TOOLS</text>
+<text x="45" y="180" fill="#f3f7fc" font-size="58" font-weight="700" letter-spacing="-2">Bilal Karadeniz</text>
+<text x="48" y="225" fill="#b8c6d8" font-size="23">From product idea to working systems.</text>
+<text x="48" y="286" fill="#8094ac" font-size="15" letter-spacing="1">VOICE AGENTS · WEB PRODUCTS · MOBILE APPS</text>
+</g>
+<g transform="translate(865 78)" fill="none" stroke="#2b435b" stroke-width="1.5">
+<rect x="0" y="40" width="104" height="104" rx="20"/>
+<rect x="140" y="0" width="96" height="72" rx="16"/>
+<rect x="140" y="128" width="96" height="72" rx="16"/>
+<path d="M104 92H122V36H140M122 92V164H140"/>
+<circle cx="122" cy="92" r="4" fill="#66e0c2" stroke="none"/>
+<path d="M29 92H34L40 70L47 114L54 63L61 121L68 80L75 92H80" stroke="#66e0c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M162 26H211M162 37H198M162 48H205" stroke="#7793af" stroke-linecap="round"/>
+<rect x="176" y="143" width="24" height="42" rx="5" stroke="#7793af"/>
+<path d="M185 178H191" stroke="#66e0c2" stroke-linecap="round"/>
+</g>
+</svg>
