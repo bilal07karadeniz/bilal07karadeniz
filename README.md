@@ -60,7 +60,7 @@ An AI-assisted platform for dietitians: client records, diet plans, appointments
 </td>
 <td width="50%" valign="top">
 <h3>04 / Mobile applications</h3>
-<b>TusTrack</b><br />
+<b><a href="https://apps.apple.com/us/app/tustrack-tus-takip-deneme/id6785279438">TusTrack</a></b><br />
 Study planning, timers, revision cards and progress tracking, with iOS release work.<br /><br />
 <sub>React Native · Expo · TypeScript · Supabase</sub>
 </td>
