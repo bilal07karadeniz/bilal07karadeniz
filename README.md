@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Bilal Karadeniz — Rust, real-time voice AI and full-stack products." />
+  <img src="https://raw.githubusercontent.com/bilal07karadeniz/bilal07karadeniz/2679e3ffbd645fcc6403a6281cb0a38757fc5bc5/assets/banner.svg" width="100%" alt="Bilal Karadeniz — Rust, real-time voice AI and full-stack products." />
 </p>
 
 <p align="center">
